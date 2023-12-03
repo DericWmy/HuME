@@ -2,14 +2,14 @@
 This is the dataset for our paper `Hierarchical Fusion Network with Manifold Learning for
 Multimodal Humor Recognition on Memes`
 
-## Dataset Link
+## 1.1 Dataset Link
 The data can be obtained through link https://pan.baidu.com/s/1975K5hqanjBCQUtLdFK2Pw <br>
 code: arvq
 
-## Dataset Construction Process
+## 1.2 Dataset Construction Process
 
 
-## Dataset Statistics
+## 1.3 Dataset Statistics
 We divided the experimental data into training, validation,
 and test sets in a ratio of 80%:10%:10%, ensuring a consistent distribution of positive and negative samples. All statistics of this data set are shown in the table
 
@@ -18,5 +18,5 @@ and test sets in a ratio of 80%:10%:10%, ensuring a consistent distribution of p
  Humorous  | 4,831 | 604  | 604  | 6,039
  Non Humorous  | 3,660 | 451  | 450  | 4,561
 
- ## Annotation Process
+ ## 1.4 Annotation Process
  
