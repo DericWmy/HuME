@@ -1,5 +1,5 @@
 # Hierarchical Fusion Network with Manifold Learning for Multimodal Humor Recognition on Memes
-This is the dataset for our paper `Hierarchical Fusion Network with Manifold Learning for
+📜This is the dataset for our paper `Hierarchical Fusion Network with Manifold Learning for
 Multimodal Humor Recognition on Memes`
 
 ## 1.1 Dataset Construction Process
