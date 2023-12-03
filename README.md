@@ -28,7 +28,7 @@ integrated into the entire dataset.
 ***
 ## 1.3 Dataset Statistics
 We divided the experimental data into training, validation,
-and test sets in a ratio of 80%:10%:10%, ensuring a consistent distribution of positive and negative samples. All statistics of this data set are shown in the table
+and test sets in a ratio of 80%:10%:10%, ensuring a consistent distribution of positive and negative samples. All statistics of this data set are shown in the table.
 
  Dataset  | Train  | Valid  | Test  | Total
  ---- | ----- | ------ | ------ | ------  
@@ -37,5 +37,5 @@ and test sets in a ratio of 80%:10%:10%, ensuring a consistent distribution of p
 ***
  ## 1.4 Dataset Link
 The data can be obtained through link https://pan.baidu.com/s/1975K5hqanjBCQUtLdFK2Pw <br>
-code: arvq
+code: arvq.
  
