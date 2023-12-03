@@ -17,6 +17,7 @@ and test sets in a ratio of 80%:10%:10%, ensuring a consistent distribution of p
 
 ## 1.3 Dataset Construction Process
 
+![data (1)](https://github.com/DericWmy/HuME/assets/102895417/72fb7d03-8cb9-4f5c-9c9b-3eaae423b907)
 
 
 ## 1.4 Annotation Process
